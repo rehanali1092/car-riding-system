@@ -1,4 +1,4 @@
-# YAARz-riding-system
+#car-riding-system
 This is my semester 2 project in c++ named car riding system. It  is made by using OOP concepts.
 
 YAARz Rider System: C++ ride-sharing app connecting passengers & drivers with secure login (driver/passenger accounts).
