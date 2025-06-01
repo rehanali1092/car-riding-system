@@ -1,0 +1,9 @@
+Information Of Driver : 
+
+Name : yasir
+CNIC : 12345
+LicenceNumber : 12345
+City : aaa
+Province : aaa
+DriverPassword : 12345
+ConfirmPassword : 12345

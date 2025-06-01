@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1711542486 source:g:\onedrive\desktop\new folder\dhvsdycgdeyudsgvf\main.cpp
+	<iostream>
+
+1719884470 source:g:\onedrive\desktop\conceptual taks\practice\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<limits>
+	<sstream>
+	<vector>
+
+1719884470 source:c:\users\computer solution\desktop\practice\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<limits>
+	<sstream>
+	<vector>
+
